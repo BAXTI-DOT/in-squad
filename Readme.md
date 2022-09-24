@@ -2,7 +2,7 @@
 
 #### By _**Baxtiyor Teshaev**_
 
-#### _List of users with books_
+#### _List of users with books, go to http://localhost:4040 and debug in Apollo Playground_
 
 ## Technologies Used
 
