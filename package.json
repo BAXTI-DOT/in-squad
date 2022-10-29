@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "apollo-server": "^3.10.2",
+    "apollo-server": "^3.10.3",
     "dotenv": "^16.0.2",
     "eslint": "^8.23.1",
     "graphql": "^15.8.0",
